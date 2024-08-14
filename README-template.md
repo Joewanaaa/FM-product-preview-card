@@ -12,7 +12,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Joewanaaa/FM-product-preview-card)
-- Live Site URL: [Product Preview Card](https://your-live-site-url.com)
+- Live Site URL: [Product Preview Card](https://fm-product-preview-card.vercel.app/)
 
 ## My process
 
